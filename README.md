@@ -22,7 +22,7 @@
 
 ## Preview
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/103211492/193033666-c6c736ed-fd6d-426f-a131-a0c1ca3b2c5f.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/103211492/193034491-00dea37f-55f6-40f9-9fa3-1633c7dbeb20.gif)
 
 
 ## Quick start
