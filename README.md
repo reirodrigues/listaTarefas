@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">My Senior Flutter App</h3>
+  <h3 align="center">My first Flutter App</h3>
 
   <p align="center">
     My first flutter project
